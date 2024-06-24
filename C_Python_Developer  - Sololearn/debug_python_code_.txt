@@ -1,0 +1,16 @@
+En Visual Studio Code (VS Code) también puedes tener una experiencia similar 
+a la de los Jupyter Notebooks utilizando extensiones específicas. 
+La extensión más popular para este propósito es "Jupyter" (anteriormente conocida como "Python") 
+que te permite ejecutar celdas de código Python y Markdown directamente en VS Code.
+
+Para instalar la extensión "Jupyter" en Visual Studio Code, sigue estos pasos:
+
+Abre Visual Studio Code.
+Ve a la pestaña de extensiones en el menú lateral izquierdo (o presiona Ctrl+Shift+X).
+En la barra de búsqueda, escribe "Jupyter" y presiona Enter.
+Deberías ver la extensión "Jupyter" en los resultados de búsqueda. Haz clic en "Install" para instalarla.
+Una vez instalada, podrás crear un nuevo archivo con extensión ".ipynb" (Jupyter Notebook) o abrir uno existente.
+Ahora puedes escribir y ejecutar celdas de código Python o Markdown dentro de VS Code.
+Con la extensión "Jupyter" en Visual Studio Code, puedes obtener una experiencia similar 
+a la de trabajar con Jupyter Notebooks, aunque dentro del entorno familiar de VS Code. 
+Esto es útil si ya estás acostumbrado a trabajar con VS Code y quieres tener todas tus herramientas en un solo lugar.
